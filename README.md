@@ -1,2 +1,0 @@
-# rocketshoes
-estudo de redux
